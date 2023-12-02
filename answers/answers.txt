@@ -1,2 +1,8 @@
+Question 1:
 Found 18 types within Types.
+Question 2:
 Found Eevee as the 45th pokemon in the list.
+Question 3:
+Found 656 different pokemon within the pokemons table.
+Question 4:
+Found 316 different pokemon with a secondary_type from the pokemons table.
