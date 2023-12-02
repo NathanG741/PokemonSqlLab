@@ -1,0 +1,2 @@
+Found 18 types within Types.
+Found Eevee as the 45th pokemon in the list.
